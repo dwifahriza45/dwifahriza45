@@ -40,7 +40,7 @@
 ---
 
 ## 🔥 Current Focus
-- 🚀 Building Backend Apps with Golang
+- 🚀 Building Fullstack Apps with Golang & Flutter (Android)
 - 🤖 Automation (Telegram Bot, API integration)
 - ☁️ Learning Cloud Deployment & VPS
 
