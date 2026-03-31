@@ -12,7 +12,15 @@
 ---
 
 ## 🏆 Certifications
-- 🎖️ [Back-End Pemula - Dicoding](https://www.dicoding.com/certificates/4EXGYGO6DXRL)
+- 🎖️ [Fundamental React JS - Dicoding](https://www.dicoding.com/certificates/NVP7J3G5VXR0)
+- 🎖️ [Developer Professional - General App Orchestration - Huawei](https://drive.google.com/file/d/1nuhJcNw0YJFRPHVDYUyajlQGGJ9ghOOD/view)
+- 🎖️ [Cyber Security Services - Huawei](https://drive.google.com/file/d/1JHsNQVN7EYw0mLgDkvcNZhpZciIr4Igd/view)
+- 🎖️ [Machine Learning - Dicoding](https://www.dicoding.com/certificates/JMZV270D3ZN9)
+- 🎖️ [Fundamental Back-end - Dicoding](https://www.dicoding.com/certificates/JLX13O91NP72)
+- 🎖️ [Fullstack Dev - Kampus Merdeka](https://drive.google.com/file/d/1t2BcUjcZh7mCCdNX0xPbMDL2KTAFx0ws/view)
+- 🎖️ [Software Developer - Kamar Pelajar](https://drive.google.com/file/d/1Y0x_gPXNklnDak50C2VPl-kdtp7gB7Y_/view)
+- 🎖️ [Frontend Expert - Dicoding](https://www.dicoding.com/certificates/MRZMKVW1NPYQ)
+- 🎖️ [Architecting AWS - Dicoding](https://www.dicoding.com/certificates/98XW61E7WXM3)
 
 ---
 
