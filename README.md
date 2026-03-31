@@ -1,54 +1,56 @@
 <h1 align="center">Hi 👋, I'm Muhamad Dwi Fahriza</h1>
-<h3 align="center">🚀 Backend Developer Enthusiast from Indonesia</h3>
+<h3 align="center">Fullstack Developer Enthusiast from Indonesia 🇮🇩</h3>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 - 🎓 Student at **Muhammadiyah Sukabumi University**
-- 💡 Passionate about **Backend Development & System Design**
-- 📚 Currently learning **Golang, APIs, and scalable systems**
-- ⚡ Love building useful apps (especially finance & automation tools)
+- 💻 Interested in **Backend Development & System Design**
+- ⚙️ Currently learning **Golang, API Development, and Cloud**
+- 📚 Love building useful apps (finance apps, automation, etc)
+
+---
+
+## 🏆 Certifications
+- 🎖️ [Back-End Pemula - Dicoding](https://www.dicoding.com/certificates/4EXGYGO6DXRL)
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,php,js,html,css,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=go,php,js,laravel,codeigniter,mysql,postgres,docker,git,linux" />
 </p>
-
----
-
-## 📜 Certificate
-- 🎖️ [Back-end Pemula - Dicoding](https://www.dicoding.com/certificates/4EXGYGO6DXRL)
 
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-<a href="https://github.com/dwifahriza45">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dwifahriza45&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwifahriza45&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dwifahriza45&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwifahriza45&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🔗 Connect with Me
+## 🔥 Current Focus
+- 🚀 Building Backend Apps with Golang
+- 🤖 Automation (Telegram Bot, API integration)
+- ☁️ Learning Cloud Deployment & VPS
+
+---
+
+## 📫 Connect with Me
 <p align="left">
-  <a href="https://github.com/dwifahriza45">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <a href="https://github.com/dwifahriza45" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=github" height="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-dwi-fahriza-429110210/" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
 </p>
 
 ---
 
-## 🚀 Goals
-- 🔥 Become a professional backend engineer
-- 🌍 Build impactful digital products
-- 🤖 Automate everything possible
+## ✨ Quote
+> "Consistency beats talent when talent doesn’t work hard."
 
 ---
-
-<p align="center">
-  💬 “Code. Learn. Build. Repeat.”
-</p>
